@@ -12,7 +12,7 @@
   },
   "categories": [
     {
-      "name": "synchronization",
+      "name": "Synchronization",
       "id": "synchronization",
       "papers": [
         {
@@ -25,7 +25,7 @@
           "type": "paper",
           "path": "otsm-neurips-2026.pdf",
           "pages": 46,
-          "summary": "Nearly optimal noise guarantees for generalized power methods and semidefinite relaxations of orthogonal trace-sum maximization."
+          "summary": "Nearly optimal noise guarantees for the generalized power method and the semidefinite relaxation of orthogonal trace-sum maximization."
         }
       ]
     },
@@ -51,7 +51,7 @@
           "type": "paper",
           "path": "unified-convex-low-rank-sdp.pdf",
           "pages": 51,
-          "summary": "A convex framework for low-rank semidefinite optimization with efficient quadratic-programming corrections and global and local convergence guarantees."
+          "summary": "A unified theoretical framework for various convex low-rank SDP algorithms, including two new variants of the spectral bundle method proposed in this work."
         },
         {
           "title": "An Online Spectral Bundle Method for Large Scale SDP with Local Linear Convergence",
@@ -91,7 +91,7 @@
           "type": "paper",
           "path": "dspdhg-siam.pdf",
           "pages": 30,
-          "summary": "Randomized block updates on both primal and dual variables, with ergodic convergence and linear convergence of a restarted variant."
+          "summary": "Randomized block updates on both primal and dual variables, with ergodic sublinear convergence and linear convergence of a restarted variant."
         },
         {
           "title": "Doubly Stochastic Primal-Dual Hybrid Gradient Method for Saddle-Point Problems with Nonlinear Coupling Terms",
@@ -103,7 +103,7 @@
           "type": "paper",
           "path": "dspdhg-nonbilinear.pdf",
           "pages": 27,
-          "summary": "Doubly stochastic primal-dual updates for convex-concave saddle-point problems with smooth nonlinear coupling."
+          "summary": "Doubly stochastic primal-dual updates for convex-concave saddle-point problems with smooth nonlinear coupling, with ergodic sublinear convergence and linear convergence of a restarted variant."
         }
       ]
     },
