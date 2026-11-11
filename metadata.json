@@ -1,0 +1,127 @@
+{
+  "person": {
+    "name": "Yiheng Xiao",
+    "cv_name": "Xiao Yiheng",
+    "email": "xyh051014@sjtu.edu.cn",
+    "institution": "Shanghai Jiao Tong University",
+    "school": "Antai College of Economics and Management",
+    "degree": "Undergraduate student, double major in Mathematics and Economics",
+    "education_dates": "2023 - 2027 (expected)",
+    "intro": "I am an undergraduate student at Shanghai Jiao Tong University, double majoring in mathematics and economics. My research focuses on continuous optimization, including semidefinite programming, primal-dual methods, optimization on manifolds, and online preconditioning.",
+    "cv": "cv.pdf"
+  },
+  "categories": [
+    {
+      "name": "synchronization",
+      "id": "synchronization",
+      "papers": [
+        {
+          "title": "Nearly Optimal Bounds for Orthogonal Trace-Sum Maximization",
+          "authors": [
+            "Yiheng Xiao",
+            "Huikang Liu"
+          ],
+          "status": "NeurIPS 2026 (Poster)",
+          "type": "paper",
+          "path": "otsm-neurips-2026.pdf",
+          "pages": 46,
+          "summary": "Nearly optimal noise guarantees for generalized power methods and semidefinite relaxations of orthogonal trace-sum maximization."
+        }
+      ]
+    },
+    {
+      "name": "SDP",
+      "id": "sdp",
+      "papers": [
+        {
+          "title": "A Unified Framework for Convex Low-Rank SDP",
+          "authors": [
+            "Huikang Liu",
+            "Yicheng Huang",
+            "Yiheng Xiao",
+            "Dongdong Ge",
+            "Yinyu Ye"
+          ],
+          "equal_contribution": [
+            "Huikang Liu",
+            "Yicheng Huang",
+            "Yiheng Xiao"
+          ],
+          "status": "Submitted to Mathematical Programming",
+          "type": "paper",
+          "path": "unified-convex-low-rank-sdp.pdf",
+          "pages": 51,
+          "summary": "A convex framework for low-rank semidefinite optimization with efficient quadratic-programming corrections and global and local convergence guarantees."
+        },
+        {
+          "title": "An Online Spectral Bundle Method for Large Scale SDP with Local Linear Convergence",
+          "authors": [
+            "Yiheng Xiao",
+            "Yicheng Huang",
+            "Huikang Liu",
+            "Dongdong Ge",
+            "Yinyu Ye"
+          ],
+          "authors_as_printed": [
+            "Xiao Yiheng",
+            "Huang Yicheng",
+            "Liu Huikang",
+            "Ge Dongdong",
+            "Ye Yinyu"
+          ],
+          "status": "Working paper",
+          "type": "paper",
+          "path": "online-spectral-bundle-sdp.pdf",
+          "pages": 54,
+          "summary": "An online spectral bundle method with one subspace update and one reduced projected-gradient step per iteration, with local linear convergence."
+        }
+      ]
+    },
+    {
+      "name": "PDHG",
+      "id": "pdhg",
+      "papers": [
+        {
+          "title": "On the Convergence of Doubly Stochastic Primal-Dual Hybrid Gradient Method",
+          "authors": [
+            "Yiheng Xiao",
+            "Huikang Liu"
+          ],
+          "status": "Submitted to SIAM Journal on Optimization",
+          "type": "paper",
+          "path": "dspdhg-siam.pdf",
+          "pages": 30,
+          "summary": "Randomized block updates on both primal and dual variables, with ergodic convergence and linear convergence of a restarted variant."
+        },
+        {
+          "title": "Doubly Stochastic Primal-Dual Hybrid Gradient Method for Saddle-Point Problems with Nonlinear Coupling Terms",
+          "authors": [
+            "Yiheng Xiao",
+            "Huikang Liu"
+          ],
+          "status": "Working paper",
+          "type": "paper",
+          "path": "dspdhg-nonbilinear.pdf",
+          "pages": 27,
+          "summary": "Doubly stochastic primal-dual updates for convex-concave saddle-point problems with smooth nonlinear coupling."
+        }
+      ]
+    },
+    {
+      "name": "Online Preconditioning",
+      "id": "online-preconditioning",
+      "papers": [
+        {
+          "title": "Online Learning of Kronecker Preconditioners",
+          "subtitle": "Riemannian updates with two online objectives",
+          "authors": [],
+          "status": "Presentation slides",
+          "type": "slides",
+          "path": "online-kronecker-preconditioning.pdf",
+          "pages": 13,
+          "summary": "Riemannian online updates for learning Kronecker-structured preconditioners using two feedback objectives."
+        }
+      ]
+    }
+  ]
+}
