@@ -24,6 +24,7 @@
           "status": "NeurIPS 2026 (Poster)",
           "type": "paper",
           "path": "otsm-neurips-2026.pdf",
+          "poster": "otsm-neurips-2026-poster.pdf",
           "pages": 46,
           "summary": "Nearly optimal noise guarantees for the generalized power method and the semidefinite relaxation of orthogonal trace-sum maximization."
         }
